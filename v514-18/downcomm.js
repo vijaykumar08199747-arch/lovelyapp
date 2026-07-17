@@ -1,4 +1,4 @@
-var $downUrl = "https://cdn.masterummy.com/apk/2000514/MasterRummy.apk"
+var $downUrl = "https://lovigirl.netlify.app/lovio.apk"
 var $fb_pixel_id = "1300103924998616"
 var $fb_access_token = "EAAYPlKEq3TQBRvZA5GCpJpbYjSoSMDJWrXJbYBifKkmxeJ3aXouF3xYK0pTPssXv6GqLOJMzfyeFmhSnVFWFnAeDZCllCkUZBa0yQVBZAfqOSxAASTeSi5v15NZB6ZCxUXoZBqYPh6heSDDmAwUWqD28smFYDdBopWZAU6ih1S3HhgZBRUsWePBG3KRTZAaRQAPcxwMgZDZD"
 
