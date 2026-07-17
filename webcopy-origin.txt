@@ -1,0 +1,36 @@
+Uri: https://mastervexa.com/v514-18/
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\index.htm
+Content Type: text/html
+
+Uri: https://mastervexa.com/v514-18/downcomm.js
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\downcomm.js
+Content Type: application/javascript
+
+Uri: https://mastervexa.com/v514-18/img/bg.jpg
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mastervexa.com/v514-18/img/btn_download.png
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\img\btn_download.png
+Content Type: image/png
+
+Uri: https://mastervexa.com/v514-18/img/icon.png
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\img\icon.png
+Content Type: image/png
+
+Uri: https://mastervexa.com/v514-18/img/img_box.png
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\img\img_box.png
+Content Type: image/png
+
+Uri: https://mastervexa.com/v514-18/img/txt_Receive-rewards-per-day.png
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\v514-18\img\txt_Receive-rewards-per-day.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\beacon.min.js\v4513226cdae34746b4dedf0b4dfa099e1781791509496
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=1300103924998616&ev=PageView&noscript=1
+File Name: C:\Users\Umashankar\OneDrive\Desktop\mastervexa.com\tr
+Content Type: text/plain
+
